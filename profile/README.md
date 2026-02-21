@@ -40,12 +40,6 @@ The software operates cross-platform running on Mac, Windows, and Linux through 
 
 ---
 
-<p align="center">
-  <img src="https://static.macupdate.com/screenshots/293408/m/mucommander-screenshot.png?v=1612425853" alt="muCommander screenshot"/>
-</p>
-
----
-
 ## Additional Information
 
 muCommander OSX excels for efficient keyboard-driven file management. Dual-pane interface enables visual file operations maintaining context during transfers without multiple windows.
